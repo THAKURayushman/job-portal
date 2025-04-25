@@ -22,9 +22,6 @@ const Hero = () => {
       <p className="text-gray-700 mb-6 max-w-xl mx-auto">
         Browse jobs, post resumes, and connect with top companies.
       </p>
-      <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
-        Get Started
-      </button>
     </section>
   );
 };

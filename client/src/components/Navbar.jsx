@@ -23,19 +23,19 @@ const Navbar = () => {
         <div className="hidden md:flex gap-4 text-white">
           <a
             href="/"
-            className="hover:scale-105 transition-transform duration-200"
+            className="hover:scale-125 transition-transform duration-100"
           >
             Home
           </a>
           <a
             href="/login"
-            className="hover:scale-105 transition-transform duration-200"
+            className="hover:scale-125 transition-transform duration-100"
           >
             Login
           </a>
           <a
             href="/register"
-            className="hover:scale-105 transition-transform duration-200"
+            className="hover:scale-125 transition-transform duration-100"
           >
             Register
           </a>
